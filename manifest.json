@@ -1,0 +1,8 @@
+{
+  "mods": [
+    {
+      "name": "ExampleMod.jar",
+      "url": "https://example.com/ExampleMod.jar"
+    }
+  ]
+}
