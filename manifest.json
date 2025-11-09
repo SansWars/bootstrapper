@@ -1,8 +1,174 @@
 {
   "mods": [
     {
-      "name": "Just Enough Items (JEI)",
-      "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/SzSthGd2/jei-1.21.10-neoforge-26.1.0.16.jar"
+      "name": "Better Combat (core)",
+      "url": "https://modrinth.com/mod/better-combat/version/1.7.1%2B1.20.1-forge",
+      "version": "1.7.1+1.20.1-forge"
+    },
+    {
+      "name": "Player Animator (dependency for Better Combat)",
+      "url": "https://modrinth.com/mod/player-animator/versions",
+      "version": "1.20.1-compatible (check versions)"
+    },
+    {
+      "name": "Combat Animations AddOn",
+      "url": "https://modrinth.com/search?q=combat%20animation",
+      "version": "1.20.1-compatible (check specific addon)"
+    },
+    {
+      "name": "Better Mob Combat",
+      "url": "https://modrinth.com/mod/better-mob-combat/versions",
+      "version": "1.20.1-compatible (see versions)"
+    },
+    {
+      "name": "Medieval Core Mod",
+      "url": "https://modrinth.com/mod/medieval-core-mod/versions",
+      "version": "1.20.1-compatible (see versions)"
+    },
+    {
+      "name": "Medieval Buildings",
+      "url": "https://modrinth.com/mod/medieval-buildings/version/3LAreaNU",
+      "version": "1.1.1 (1.20.1-forge)"
+    },
+    {
+      "name": "Medieval Buildings - Nether Edition",
+      "url": "https://modrinth.com/search?q=medieval%20buildings%20nether",
+      "version": "1.20.1-compatible (check version page)"
+    },
+    {
+      "name": "Medieval Paintings (decor)",
+      "url": "https://modrinth.com/search?q=medieval%20paintings",
+      "version": "1.20.1-compatible (check versions)"
+    },
+    {
+      "name": "Medieval Weapons (if Forge build available)",
+      "url": "https://modrinth.com/search?q=medieval%20weapons",
+      "version": "May be Fabric-only — check for Forge build"
+    },
+    {
+      "name": "Spartan Weaponry",
+      "url": "https://modrinth.com/mod/spartan-weaponry/versions",
+      "version": "check 1.20.1-forge release"
+    },
+    {
+      "name": "Knights & Castles",
+      "url": "https://modrinth.com/search?q=knights%20castles",
+      "version": "1.20.1-compatible (check versions)"
+    },
+    {
+      "name": "Towns and Towers",
+      "url": "https://modrinth.com/mod/towns-and-towers/versions",
+      "version": "1.20.1-compatible (see versions)"
+    },
+    {
+      "name": "Castle Structures Pack",
+      "url": "https://modrinth.com/search?q=castle%20structures",
+      "version": "1.20.1-compatible (check versions)"
+    },
+    {
+      "name": "When Dungeons Arise",
+      "url": "https://modrinth.com/mod/when-dungeons-arise/versions",
+      "version": "1.20.1-compatible (see versions)"
+    },
+    {
+      "name": "Stalwart Dungeons",
+      "url": "https://modrinth.com/search?q=stalwart%20dungeons",
+      "version": "1.20.1-compatible (check mod page)"
+    },
+    {
+      "name": "Waystones (Balm required)",
+      "url": "https://modrinth.com/mod/waystones/version/14.1.9%2Bforge-1.20.1",
+      "version": "14.1.9+forge-1.20.1"
+    },
+    {
+      "name": "Balm (dependency for Waystones / server libs)",
+      "url": "https://modrinth.com/mod/balm/versions",
+      "version": "1.20.1-compatible (check versions)"
+    },
+    {
+      "name": "Dynamic Trim (Architectury/trim libs)",
+      "url": "https://modrinth.com/mod/dynamic-trim/version/1.2.1",
+      "version": "1.2.1 (1.20.1-forge)"
+    },
+    {
+      "name": "Architectury API (dependency for some building mods)",
+      "url": "https://modrinth.com/mod/architectury/versions",
+      "version": "1.20.1-compatible (see versions)"
+    },
+    {
+      "name": "Medieval Furniture / Decoration Pack",
+      "url": "https://modrinth.com/search?q=medieval%20furniture",
+      "version": "1.20.1-compatible (check versions)"
+    },
+    {
+      "name": "Medieval Craft (Structures & Mobs)",
+      "url": "https://modrinth.com/search?q=medieval%20craft",
+      "version": "1.20.1-compatible (check versions)"
+    },
+    {
+      "name": "Illagers Wear Armor",
+      "url": "https://modrinth.com/mod/illagers-wear-armor/versions",
+      "version": "1.20.1-compatible (see versions)"
+    },
+    {
+      "name": "Blood Magic or Rituals (search placeholder)",
+      "url": "https://modrinth.com/search?q=blood%20magic",
+      "version": "Check mod page for available 1.20.1-forge builds"
+    },
+    {
+      "name": "Ancient Artifacts / Relics",
+      "url": "https://modrinth.com/search?q=ancient%20artifacts",
+      "version": "1.20.1-compatible (check versions)"
+    },
+    {
+      "name": "Rituals & Runes / Mystic Expansion",
+      "url": "https://modrinth.com/search?q=rituals%20runes",
+      "version": "1.20.1-compatible (check versions)"
+    },
+    {
+      "name": "Lore Dimensions / Thematic Dimensions",
+      "url": "https://modrinth.com/search?q=lore%20dimensions",
+      "version": "1.20.1-compatible (check versions)"
+    },
+    {
+      "name": "Knightly Armour Craft",
+      "url": "https://modrinth.com/search?q=knightly%20armour",
+      "version": "1.20.1-compatible (check versions)"
+    },
+    {
+      "name": "Dark Realm / Undead Expansion",
+      "url": "https://modrinth.com/search?q=undead%20expansion",
+      "version": "1.20.1-compatible (check versions)"
+    },
+    {
+      "name": "Epic Medieval UI Theme (client resource / UI mod)",
+      "url": "https://modrinth.com/search?q=ui%20theme%20medieval",
+      "version": "client-only; check compatibility"
+    },
+    {
+      "name": "Origins (Forge) (dependency for Medieval Origins Revival)",
+      "url": "https://modrinth.com/mod/origins/versions",
+      "version": "Forge 1.20.1-compatible release (required by Medieval Origins Revival)"
+    },
+    {
+      "name": "Pehkui (dependency for Origins scaling features)",
+      "url": "https://modrinth.com/mod/pehkui/versions",
+      "version": "1.20.1-compatible (check versions)"
+    },
+    {
+      "name": "Cloth-Config (if a Forge build required by a mod)",
+      "url": "https://modrinth.com/search?q=cloth-config",
+      "version": "Some mods expect Cloth Config (Fabric/Forge variants may exist); confirm per-mod"
+    },
+    {
+      "name": "Balm (already listed but keep as explicit entry for updater)",
+      "url": "https://modrinth.com/mod/balm/versions",
+      "version": "1.20.1-compatible"
+    },
+    {
+      "name": "PlayerLib / Common libs (generic - check per-mod)",
+      "url": "https://modrinth.com/search?q=playerlib",
+      "version": "add required small libs per mod"
     }
   ]
 }
